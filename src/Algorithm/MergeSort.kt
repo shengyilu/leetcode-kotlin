@@ -1,6 +1,5 @@
 package Algorithm
 
-import com.sun.scenario.effect.Merge
 import java.util.*
 
 class MergeSort {
